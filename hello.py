@@ -3,5 +3,4 @@ if name == 'Sam':
     print("Hello")
 else:
     print("Hello dude")
-    print("How are you?")
-    
+print("How are you?")
